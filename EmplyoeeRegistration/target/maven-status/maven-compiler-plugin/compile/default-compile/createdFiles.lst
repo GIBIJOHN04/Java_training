@@ -1,0 +1,5 @@
+com\ust\EmplyoeeRegistration\comtroller\EmployeeController.class
+com\ust\EmplyoeeRegistration\Repostory\EmployeeRepost.class
+com\ust\EmplyoeeRegistration\service\EmployeeService.class
+com\ust\EmplyoeeRegistration\EmplyoeeRegistrationApplication.class
+com\ust\EmplyoeeRegistration\model\Employee.class
